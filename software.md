@@ -25,7 +25,6 @@ Websites / Webapps that are good can be found at [bookmarks](http://add1son.com/
 * [balenaEtcher](https://etcher.balena.io) - Flash USB and SD cards
 * [Portainer](https://www.portainer.io/) - Docker management
 * [beets](https://beets.io/) - music metadata management
-* [pgadmin](https://www.pgadmin.org/) - gui Postgresql manager
 
 ## Android
 Mostly sticking to Fdroid here instead of the Google Play store but if you really need something from there use [Aurora Store](http://f-droid.org/packages/com.aurora.store/)
@@ -80,10 +79,10 @@ Additional Repos
 * [FileConverter](https://github.com/Tichau/FileConverter)** - **allows for file conversion from the right click (context) menu
 * [Everything](https://www.voidtools.com/) - Searches everything and indexes multiple disks. Can search by extension and much more
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Everything Microsoft should put in windows but you have to download it and install it after. FancyZones, PowerRename and Text Extractor are all great.
-* [Pinokio](https://pinokio.computer/) - Local LMM hosting made easy
 * [WinMerge](https://winmerge.org/?lang=en) - File comparison and merging
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) - CD Ripper
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/) - LMM based tool for isolating stems in audio
+* [Pinokio](https://pinokio.computer/) - Local LMM hosting made easy
 
 ## Linux
 * [mpv](https://mpv.io/)
@@ -91,6 +90,7 @@ Additional Repos
 * [kde](https://kde.org/)
 * [Remmina](https://remmina.org/) - Remote Desktop but on Linux
 * [autokey](https://github.com/autokey/autokey) - Autohotkey but for linux
+* [pgadmin](https://www.pgadmin.org/) - PostgreSQL management made easy 
 
 ## Web Browser & Extensions
 [Firefox](https://www.mozilla.org/en-US/firefox/) and Firefox based [Floorp](https://floorp.app/en) are great for daily drivers.
@@ -121,18 +121,24 @@ Chrome based browsers + Firefox, just search your browser with the extension nam
 * [Jdownloader](https://jdownloader.org/jdownloader2)
 
 ## Self Hosted
+* [homepage](https://github.com/gethomepage/homepage) - Dashboard for self hosted services
 * [ArchiveBox](https://archivebox.io/) - Archive the net
 * [Syncthing](https://syncthing.net/) - Sync your devices / folders
-* [Photoprism](https://photoprism.app/) - Photo tagging application
-* [Immich](https://immich.app/) - Google Photos alternative
-    * [immich-go](https://github.com/simulot/immich-go) - import from google takeouts and more
-* [Hydrus](https://hydrusnetwork.github.io/hydrus/index.html) - Multimedia tagging solution
 * [Wordpress](https://wordpress.com/) - What hosts this website :)
 * [Modoboa](https://github.com/modoboa/modoboa) - simple email server
 * [TrueNAS Scale](https://www.truenas.com/truenas-scale/) - Debian based baremetal NAS powered by ZFS
 * [Nextcloud](https://nextcloud.com/) - NAS and MORE
-* [Plex](https://www.plex.tv/) - Multimedia Server
+* [dockge](https://github.com/louislam/dockge) - docker stack management
 * [Commafeed](https://github.com/Athou/commafeed/) - Google Reader inspired self-hosted RSS reader
 * [Bitwarden](https://bitwarden.com/help/self-host-an-organization/) - Password manager
 * [FreshRSS](https://freshrss.org/) - RSS reader and aggregator
 * [TTRSS](https://tt-rss.org/) - RSS reader and aggregator
+* [linkding](https://github.com/sissbruecker/linkding) - Bookmark management
+* [searx](https://docs.searxng.org/) - metasearch engine
+* [Plex](https://www.plex.tv/) - Multimedia Server
+* [Plex monitor - Tautulli](https://tautulli.com/)
+* [metube](https://github.com/alexta69/metube) - Media downloader / video downloader
+* [Photoprism](https://photoprism.app/) - Photo tagging application
+* [Immich](https://immich.app/) - Google Photos alternative
+    * [immich-go](https://github.com/simulot/immich-go) - import from google takeouts and more
+* [Hydrus](https://hydrusnetwork.github.io/hydrus/index.html) - Multimedia tagging solution
