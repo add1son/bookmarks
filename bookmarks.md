@@ -27,6 +27,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 * [Find a streaming website](https://3db7.xyz/stream/website)
 * [Quite a playlist](https://quiteaplaylist.com/)
 * [vidlii](https://www.vidlii.com/)
+* [iptvcat - repo of iptv sites](https://iptvcat.org/united_states_of_america/)
 
 # General
 * [Arstechnica](http://Arstechnica.com)
@@ -101,7 +102,8 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 * [justdelete.me](https://backgroundchecks.org/justdeleteme/)
 * [easyoptouts.com - $19.99 remove yourself from a bunch of data brokers](https://easyoptouts.com/)
 * [OSINT framework](https://osintframework.com/)
-
+# Finance
+* [stock market visual heatmap](https://finviz.com/map.ashx?t=sec_all)
 # Terminal
 * [crypto prices](https://rate.sx/)
 * [weather](https://wttr.in/?0)
