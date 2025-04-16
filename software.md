@@ -45,9 +45,9 @@ Mostly sticking to Fdroid here instead of the Google Play store but if you reall
 * Syncthing - Sync directories between machines regardless of OS - [Fdroid](http://f-droid.org/packages/com.nutomic.syncthingandroid/)
 * DNS66 - whole host adblocking - [Fdroid](https://f-droid.org/packages/org.jak_linux.dns66/)
 * Hacki - ycombinator hackernews client - [Fdroid](https://f-droid.org/packages/com.jiaqifeng.hacki/)
-* KeepassDX - keepass client for android - Fdroid
+* KeepassDX - keepass client for android - [Fdroid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 * Raven - API / web scraping news reader - [Fdroid](https://f-droid.org/en/packages/kshib.raven/)
-* Audile - Song identification - Fdroid
+* Audile - Song identification - [Fdroid](https://f-droid.org/packages/com.mrsep.musicrecognizer/)
 
 Additional Repos
 * [FLOSS android apps](https://gitlab.com/Primokorn/FLOSS_Android_apps)
