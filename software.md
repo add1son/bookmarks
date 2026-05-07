@@ -25,6 +25,7 @@ Websites / Webapps that are good can be found at [bookmarks](http://add1son.com/
 * [balenaEtcher](https://etcher.balena.io) - Flash USB and SD cards
 * [Portainer](https://www.portainer.io/) - Docker management
 * [beets](https://beets.io/) - music metadata management
+* [LosslessCut](https://github.com/mifi/lossless-cut) - FFmpeg GUI wrapper for quick video cuts
 
 ## Android
 Mostly sticking to Fdroid here instead of the Google Play store but if you really need something from there use [Aurora Store](http://f-droid.org/packages/com.aurora.store/)
