@@ -1,5 +1,5 @@
 ## bookmarks
-Bookmarks hosted on [my website](add1son.com), includes bookmarks and software.
+Bookmarks hosted on [my website](https://add1son.com), includes bookmarks and software.
 A markdown file for each:
 
 * [Software](https://github.com/add1son/bookmarks/blob/main/software.md) - This contains software that I use / have used sorted by platform
