@@ -74,6 +74,7 @@ Additional Repos
 * HyperV - Virtualization native to Windows
 * [FileConverter](https://github.com/Tichau/FileConverter) - Allows conversion between file formats from the context menu
 * [files](https://files.community/docs/install) - Explorer.exe alternative
+* [DirectoryOpus](https://www.gpsoft.com.au/) - Explorer.exe alternative for power users, really excels at everything it does
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - FOSS driver installer / wizard
 * [Hiren's boot cd](https://www.hirensbootcd.org/) - Fix windows after it breaks with bootable iso
 * [yt-dlp frontend](https://github.com/ErrorFlynn/ytdlp-interface) - GUI for everyone's favorite youtube archiver
