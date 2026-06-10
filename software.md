@@ -50,6 +50,10 @@ Mostly sticking to Fdroid here instead of the Google Play store but if you reall
 * KeepassDX - keepass client for android - [Fdroid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 * Raven - API / web scraping news reader - [Fdroid](https://f-droid.org/en/packages/kshib.raven/)
 * Audile - Song identification - [Fdroid](https://f-droid.org/packages/com.mrsep.musicrecognizer/)
+* FairScan -  Scan a document and get a clean PDF you can save or share instantly [Fdroid](https://f-droid.org/en/packages/org.fairscan.app/)
+* SherpaTTS - Android Text-to-Speech engine based on Next-gen Kaldi using Piper or Coqui voices [Fdroid](https://f-droid.org/en/packages/org.woheller69.ttsengine/)
+* Unstoppable Crypto Wallet - decentralized management tool for cryptocurrencies [Fdroid](https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/)
+* Whisper+ - input method editor (IME) with voice recognition based on Whisper, keyboard emulation for voice to text [Fdroid](https://f-droid.org/en/packages/org.woheller69.whisperplus/)
 
 Additional Repos
 * [FLOSS android apps](https://gitlab.com/Primokorn/FLOSS_Android_apps)
@@ -58,6 +62,7 @@ Additional Repos
 ## Windows:
 * [Ditto](https://ditto-cp.sourceforge.io/) - keeps db of clipboard / can sync clipboards
 * [Mremoteng](https://mremoteng.org/) - SSH client
+   * [WindTerm](https://github.com/kingToolbox/WindTerm) - A Quicker and better SSH/Telnet/Serial/Shell/Sftp 
 * [Notion](https://www.notion.so/product) - Workspace / Notetaking
     * [FOSS Alternative, Zettlr](https://www.zettlr.com/download/win32)
 * [AutoHotkey](https://www.autohotkey.com/) - script user input
