@@ -12,7 +12,7 @@ The repository is divided into two primary flat-file markdown tracking databases
 
 *   **[📁 Software](./software.md)** — A meticulously sorted matrix of desktop, mobile, server, and infrastructure applications categorized by operating system and utility.
 *   **[🔗 Bookmarks](./bookmarks.md)** — A fast-access index of lightweight webapps, documentation sheets, deep search tools, privacy utilities, and open resource repositories.
-
+*   **[🔒 Security Resources](./SecurityResources.md)** — Security specific bookmarks / software
 ---
 
 ## 🗺️ Project Roadmap & Automation Goals
