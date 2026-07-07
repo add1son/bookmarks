@@ -229,5 +229,7 @@
 * [CommaFeed](https://github.com/Athou/commafeed/) - Responsive open Google-Reader layout design clone.
 * [FreshRSS](https://freshrss.org/) - Highly structured, fast, aggregate feed platform handling massive input profiles.
 * [Tiny Tiny RSS (TT-RSS)](https://tt-rss.org/) - Robust open system managing continuous tracking data feeds.
+* [Snikket](https://snikket.org) - XMPP but made for the future, kind of like a better version of [Matrix](https://matrix.org)
+* [Etherpad](https://etherpad.org/) - Mix between pastebin and google docs, great for collaborative notes
 
 [⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
