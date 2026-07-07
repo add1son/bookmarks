@@ -2,16 +2,11 @@
 
 ## 📌 Quick Navigation
 * [🌐 Platform Agnostic](#-platform-agnostic-cross-platform)
-    * [Productivity & Notes](#productivity--notes) | [Media, Audio & Transcription](#media-audio--transcription) | [System, Networking & Databases](#system-networking--databases)
 * [🤖 Android (F-Droid Focus)](#-android-f-droid-focus)
-    * [System & Infrastructure](#system--infrastructure) | [Privacy & Security](#privacy--security) | [Media & News Aggregators](#media--news-aggregators) | [Utilities & Tools](#utilities--tools) | [Extra Repositories](#additional-repositories)
 * [🪟 Windows](#-windows)
-    * [Terminal, SSH & Utilities](#terminal-ssh--utilities) | [System & Automation](#system--automation) | [File & Archive Management](#file--archive-management) | [Graphics & Imaging](#graphics--imaging) | [Audio, Video & AI Tools](#audio-video--ai-tools)
 * [🐧 Linux](#-linux)
 * [🌐 Web Browser & Extensions](#-web-browser--extensions)
-    * [Content Blockers](#content-blockers--privacy) | [Script Managers](#script-managers--development) | [Downloaders](#downloaders--media-tools) | [Tab Management](#tab--link-management) | [Site Enhancements](#site-enhancements)
 * [🏠 Self-Hosted Infrastructure](#-self-hosted-infrastructure)
-    * [Dashboards & Management](#dashboards--management) | [Storage, Sync & Backup](#storage-sync--backup) | [Media & Photo Management](#media--photo-management) | [Feeds, Data & Bookmarks](#feeds-data--bookmarks)
 
 ---
 
@@ -196,6 +191,7 @@
 * [dockge](https://github.com/louislam/dockge) - Reactive self-hosted interface tracking and deploying docker compose stacks cleanly.
 * [Nginx Proxy Manager](https://nginxproxymanager.com/) - Simple reverse proxy configuration engine with built-in free SSL administration.
 * [Netdata](https://www.netdata.cloud/) - Real-time infrastructure monitoring agent providing baremetal OS analytics.
+* [scrutiny](https://github.com/AnalogJ/scrutiny) - SMART monitoring webUI
 
 ### Storage, Sync & Backup
 * [TrueNAS Scale](https://www.truenas.com/truenas-scale/) - Debian-powered data deployment platform utilizing open ZFS system architecture.
@@ -219,7 +215,7 @@
 * [metube](https://github.com/alexta69/metube) - Minimalist graphical frontend client driving node yt-dlp downloading servers.
 * [Tiny Media Manager](https://www.tinymediamanager.org/) - Full-featured media management tool creating clean NFO metadata assets for media servers.
 
-### Feeds, Data, Bookmarks & Comms
+### Feeds, Data, Bookmarks & Comms (misc)
 * [Bitwarden Self-Host / Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden API implementation engine hosting private secure vaults locally.
 * [AdGuard Home](https://adguard.com/adguard-home.html) - Network-wide DNS-level ad and tracking blocker proxy core.
 * [The Lounge](https://thelounge.chat/) - Modern, responsive web-based IRC client featuring persistent background node persistence.
@@ -231,5 +227,7 @@
 * [Tiny Tiny RSS (TT-RSS)](https://tt-rss.org/) - Robust open system managing continuous tracking data feeds.
 * [Snikket](https://snikket.org) - XMPP but made for the future, kind of like a better version of [Matrix](https://matrix.org)
 * [Etherpad](https://etherpad.org/) - Mix between pastebin and google docs, great for collaborative notes
+* [n8n](https://n8n.io/) - AI agent / workflow management and automation
+* [tailscale](https://tailscale.com/) - network mesh functionality
 
 [⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
