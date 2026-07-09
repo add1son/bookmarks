@@ -41,7 +41,10 @@
 * [Portainer](https://www.portainer.io/) - Container management interface for Docker and Kubernetes environments.
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich open administration platform handling PostgreSQL server databases.
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
+### AI 
+* [odysseus](https://github.com/pewdiepie-archdaemon/odysseus/) - A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows.
+
+[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory) 
 
 ---
 
@@ -229,5 +232,6 @@
 * [Etherpad](https://etherpad.org/) - Mix between pastebin and google docs, great for collaborative notes
 * [n8n](https://n8n.io/) - AI agent / workflow management and automation
 * [tailscale](https://tailscale.com/) - network mesh functionality
+* [linkwarden](https://github.com/linkwarden/linkwarden) - open-source collaborative bookmark manager
 
 [⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
