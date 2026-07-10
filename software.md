@@ -1,16 +1,16 @@
-# 🛠️ Ultimate Software & Extensions Directory
+# My favorite Software & Web Extensions
 
-## 📌 Quick Navigation
-* [🌐 Platform Agnostic](#-platform-agnostic-cross-platform)
-* [🤖 Android (F-Droid Focus)](#-android-f-droid-focus)
-* [🪟 Windows](#-windows)
-* [🐧 Linux](#-linux)
-* [🌐 Web Browser & Extensions](#-web-browser--extensions)
-* [🏠 Self-Hosted Infrastructure](#-self-hosted-infrastructure)
+## Quick Navigation
+* [Platform Agnostic](#-platform-agnostic-cross-platform)
+* [Android (F-Droid Focus)](#-android-f-droid-focus)
+* [Windows](#-windows)
+* [Linux](#-linux)
+* [Web Browser & Extensions](#-web-browser--extensions)
+* [Self-Hosted Infrastructure](#-self-hosted-infrastructure)
 
 ---
 
-## 🌐 Platform Agnostic (Cross-Platform)
+## Platform Agnostic (Cross-Platform)
 
 ### Productivity & Notes
 * [Obsidian](https://obsidian.md/) - Knowledge base mapper and markdown notebook.
@@ -44,11 +44,9 @@
 ### AI 
 * [odysseus](https://github.com/pewdiepie-archdaemon/odysseus/) - A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows.
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory) 
-
 ---
 
-## 🤖 Android (F-Droid Focus)
+## Android (F-Droid Focus)
 > *If you need an open front-end proxy for the Google Play Store, use [Aurora Store](http://f-droid.org/packages/com.aurora.store/).*
 
 ### System & Infrastructure
@@ -87,11 +85,9 @@
 * [FLOSS Android Apps Tracker](https://gitlab.com/Primokorn/FLOSS_Android_apps) - Curated index monitoring free libre open-source software packages.
 * [Awesome Android Index](https://github.com/JStumpp/awesome-android) - Developer/Power-user meta curation list.
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
-
 ---
 
-## 🪟 Windows
+## Windows
 
 ### Terminal, SSH & Utilities
 * [mRemoteNG](https://mremoteng.org/) - Tabbed, multi-protocol remote connections manager.
@@ -134,22 +130,18 @@
 * [Notion](https://www.notion.so/product) - Modular workspace planning layout canvas.
     * [Zettlr](https://www.zettlr.com/download/win32) - Academic Markdown editor deployed locally as a privacy-focused alternative.
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
-
 ---
 
-## 🐧 Linux
+## Linux
 * [mpv](https://mpv.io/) - Minimalist, powerful, highly scriptable command-line media player engine.
 * [tmux](https://github.com/tmux/tmux) - High-efficiency terminal multiplexer running persistent background virtualization shell processes.
 * [KDE Plasma](https://kde.org/) - Advanced, feature-rich modular open desktop environment matrix workspace.
 * [Remmina](https://remmina.org/) - Feature-filled remote workspace manager supporting RDP, VNC, and SSH layers.
 * [AutoKey](https://github.com/autokey/autokey) - Scriptable automation asset replacing desktop keyword macros on Linux.
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
-
 ---
 
-## 🌐 Web Browser & Extensions
+## Web Browser & Extensions
 * Recommended browser cores: [Firefox](https://www.mozilla.org/en-US/firefox/) or its customized derivative [Floorp](https://floorp.app/en). 
 * *Note on Chromium forks: [Iridium](https://iridiumbrowser.de/), [Brave](https://brave.com/), and [Opera](http://Opera.com) are viable alternatives, but be mindful of [Manifest v3 limitations](https://developer.chrome.com/docs/extensions/mv3/intro/) tracking blocking frameworks.*
 
@@ -183,11 +175,9 @@
 * **DF Tube (Distraction Free YouTube)** - [Chrome](https://chromewebstore.google.com/detail/df-tube-distraction-free/mjdepdfccjgcndkandponmagjhdgocid) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/)
 * **Bypass Paywalls Clean** - [GitHub Repository Source](https://github.com/bpc-clone/bpc-wiki) *(Manual developer side-load configuration mandatory due to repository store hosting policies)*
 
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
-
 ---
 
-## 🏠 Self Hosted Infrastructure
+## Self Hosted Infrastructure
 
 ### Dashboards & Management
 * [homepage](https://github.com/gethomepage/homepage) - Clean, highly customizable static portal configuration dashboard.
@@ -233,5 +223,3 @@
 * [n8n](https://n8n.io/) - AI agent / workflow management and automation
 * [tailscale](https://tailscale.com/) - network mesh functionality
 * [linkwarden](https://github.com/linkwarden/linkwarden) - open-source collaborative bookmark manager
-
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
