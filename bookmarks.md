@@ -2,13 +2,9 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 [Additionally Software that I use / recommend can be found here](https://github.com/add1son/bookmarks/blob/main/software.md)
 
-## 📌 Quick Navigation
-[🔍 Search](#-search) | [🎬 Videos](#-videos) | [📰 General](#-general) | [🌐 Webapps](#-webapps) | [📦 File Transfer](#-file-transfer) | [🎨 Making Stuff](#-making-stuff)
-[🔒 Privacy & Security](#-privacy--security-resources) | [📈 Finance](#-finance) | [💻 Terminal](#-terminal) | [💪 Fitness](#-fitness) | [🏡 Home & Lifestyle](#-home--lifestyle) | [🪐 Cool Webzones](#-cool-webzones) | [📚 Meta Repos](#-repos-of-good-sites--resources-meta)
-
 ---
 
-## 🔍 Search
+## Search
 * [Searx](https://searx.space/) — Decentralized metasearch engine aggregation portal.
 * [Startpage](https://www.startpage.com/en/) — Google search results delivered with complete privacy protection.
 * [SearchMySite](https://searchmysite.net/) — Independent, crowd-sourced search engine focused on the personal web.
@@ -27,7 +23,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 🎬 Videos
+## Videos
 * [Synctube](https://cytu.be/) — Synchronized media player rooms for shared web viewing.
 * [Invidious.io](https://redirect.invidious.io) — Privacy-respecting, tracker-free proxy frontend interface for YouTube.
 * [NewPipe](https://newpipe.net) — Lightweight custom open alternative client for Android media.
@@ -42,7 +38,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 📰 General
+## General
 * [Ars Technica](http://Arstechnica.com) — Deep tech journalism, analysis, hardware coverage, and technology reviews.
 * [Hackaday](https://hackaday.com/) — Fresh hacks, hardware mods, and open-source projects posted daily.
 * [Hacker News](https://news.ycombinator.com/) — Main computer science and entrepreneurial link aggregator curated by YCombinator.
@@ -51,7 +47,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 🌐 Webapps
+## Webapps
 * [PrivateBin](https://privatebin.net/) — Minimalist, zero-knowledge pastebin server architecture encrypting text data payloads locally.
 * [PortChecker](https://portchecker.co/) - External check validating open routing ports across system firewalls.
 * [Draw.io](http://draw.io) — Intuitive browser-based flowchart and architectural infrastructure diagramming canvas.
@@ -84,9 +80,9 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 📦 File Transfer
+## File Transfer
 * [Catbox](https://catbox.moe/) — Fast, persistent destination file and media hosting repository.
-* [FileConvoy](http://fileconvoy.com/) — Temporary large-file transit platform with expiration intervals.
+* [FileConvoy - dead](http://fileconvoy.com/) — Temporary large-file transit platform with expiration intervals. - RIP, gone but not forgotten
 * [WeTransfer](http://wetransfer.com/) — Classic interface executing file links sharing across email.
 * [SendAnywhere](http://send-anywhere.com/) — Peer-to-peer ad-hoc data streaming connection utilizing explicit code keys.
 * [Wormhole](https://wormhole.app/) — Streamlined transport mechanism executing end-to-end encrypted file relays.
@@ -95,7 +91,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 🎨 Making Stuff
+## Making Stuff
 * [GetYarn.io](https://getyarn.io/) — Media query dictionary scraping video frame snippets matching exact typed phrases.
 * [Cleanup.pictures](https://cleanup.pictures/) — AI-driven object eraser cleaning unwanted spots off target pictures.
 * [TTSMP3](http://ttsmp3.com) — Standardized audio generator recording voice narratives from text strings.
@@ -114,7 +110,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 🔒 Privacy / Security Resources
+## Privacy / Security Resources
 * [PrivacyTools.io](https://www.privacytools.io) — Longstanding collective tracking privacy-respecting application alternatives.
 * [EFF Surveillance Self-Defense](https://ssd.eff.org) — Electronic Frontier Foundation playbook explaining safe encryption configurations.
 * [Have I Been Pwned](https://haveibeenpwned.com) — Essential structural registry testing if your emails are exposed inside public database dumps.
@@ -130,12 +126,12 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 📈 Finance
+## Finance
 * [Finviz Market Heatmap](https://finviz.com/map.ashx?t=sec_all) — Dynamic visual block layout sizing market valuations across live corporate sectors.
 
 ---
 
-## 💻 Terminal
+## Terminal
 * [Rate.sx](https://rate.sx/) — Plaintext terminal-focused crypto market exchange analytics proxy (`curl rate.sx`).
 * [Wttr.in](https://wttr.in/?0) — Visual vector ANSI weather framework cleanly formatted for command line outputs (`curl wttr.in`).
 * [Cheat.sh](http://cheat.sh/) — Unified terminal interface gathering community documentation sheets (`curl cheat.sh/tar`).
@@ -145,7 +141,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 💪 Fitness
+## Fitness
 * [FitFileTools](https://www.fitfiletools.com/#/changer#view) — Comprehensive online parsing suite repairing corrupt or mismatched sports GPS `.fit` telemetry files.
 * [Zwift Hub](https://us.zwift.com/) — Interactive multiplayer online cycling training framework.
 * [Strava](http://strava.com/) — Global social application network tracking fitness milestones.
@@ -154,13 +150,13 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 🏡 Home / Lifestyle
+## Home / Lifestyle
 * [Cooked.wiki](http://cooked.wiki) — Frontend layout stripping annoying layout bloat from food recipes, extracting pure ingredient checklists.
 * [Based Cooking](http://based.cooking) — Complete, minimalist, open-source cooking index without trackers, cookies, or walls of text.
 
 ---
 
-## 🪐 Cool Webzones
+## Cool Webzones
 * [Sivers.org](https://sive.rs/) — Derek Sivers' collection of essays covering philosophy, business, and books.
 * [Stavros.io](https://www.stavros.io/) — Insightful thoughts and tech experiments from an old-school engineer.
 * [LukeSmith.xyz](https://lukesmith.xyz/) — Minimalist, terminal-centric computing philosophy notes.
@@ -174,7 +170,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## 📚 Repos of Good Sites / Resources (Meta)
+## Repos of Good Sites / Resources (Meta)
 * [Rentry Good Sites Guide](https://rentry.org/good-sites) — Comprehensive independent web archive link catalog.
 * [Sizeof.cat Links Directory](https://sizeof.cat/links/) — Aggregated tracking directory pointing to independent software indexes.
 * [Awesome AutoHotkey GitHub](https://github.com/ahkscript/awesome-AutoHotkey) — Curated collection of essential AHK automation snippets and framework scripts.
@@ -182,5 +178,3 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 * [Ripped.guide](https://ripped.guide/) — Highly detailed comprehensive digital media archival guide.
 * [NixNet Portal](https://nixnet.services/) — Decentralized index cataloging alternative community privacy hosting nodes.
 * [Suckless Rocks Index](https://suckless.org/rocks/) — Curation list defining lightweight tools designed strictly with clean simplicity constraints.
-
-[⬆️ Back to Top](#%EF%B8%8F-ultimate-software--extensions-directory)
