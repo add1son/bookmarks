@@ -1,15 +1,5 @@
 # My favorite Software & Web Extensions
 
-## Quick Navigation
-* [Platform Agnostic](#-platform-agnostic-cross-platform)
-* [Android (F-Droid Focus)](#-android-f-droid-focus)
-* [Windows](#-windows)
-* [Linux](#-linux)
-* [Web Browser & Extensions](#-web-browser--extensions)
-* [Self-Hosted Infrastructure](#-self-hosted-infrastructure)
-
----
-
 ## Platform Agnostic (Cross-Platform)
 
 ### Productivity & Notes
@@ -80,6 +70,8 @@
 * [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer/) - Open acoustics recognition client for finding song profiles.
 * [SherpaTTS](https://f-droid.org/en/packages/org.woheller69.ttsengine/) - Offline local text-to-speech architecture leveraging Piper & Coqui engines.
 * [Whisper+](https://f-droid.org/en/packages/org.woheller69.whisperplus/) - Voice-to-text input method keyboard layout powered locally by OpenAI Whisper models.
+* [Sidestep](https://apt.izzysoft.de/fdroid/index/apk/com.blankdev.sidestep) - Intercepts URLs and redirects them to alternative frontends & removes tracking
+* [Untracker](https://f-droid.org/en/packages/me.zhanghai.android.untracker/) - removes tracking like Sidestep without the alternative frontend redirect
 
 ### Additional Repositories
 * [FLOSS Android Apps Tracker](https://gitlab.com/Primokorn/FLOSS_Android_apps) - Curated index monitoring free libre open-source software packages.
@@ -138,6 +130,7 @@
 * [KDE Plasma](https://kde.org/) - Advanced, feature-rich modular open desktop environment matrix workspace.
 * [Remmina](https://remmina.org/) - Feature-filled remote workspace manager supporting RDP, VNC, and SSH layers.
 * [AutoKey](https://github.com/autokey/autokey) - Scriptable automation asset replacing desktop keyword macros on Linux.
+* [gdu](https://github.com/dundee/gdu) - Go disk usage utility ([windirstat](https://windirstat.net/) for linux)
 
 ---
 
@@ -213,6 +206,7 @@
 * [AdGuard Home](https://adguard.com/adguard-home.html) - Network-wide DNS-level ad and tracking blocker proxy core.
 * [The Lounge](https://thelounge.chat/) - Modern, responsive web-based IRC client featuring persistent background node persistence.
 * [linkding](https://github.com/sissbruecker/linkding) - Fast, minimalist bookmark storage solution with low resource requirements.
+* [linkwarden](https://github.com/linkwarden/linkwarden) - open-source collaborative bookmark manager
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Robust local web-based PDF manipulation tool utility wrapper.
 * [SearXNG](https://docs.searxng.org/) - Privacy-respecting, hackable metasearch engine proxy aggregator.
 * [CommaFeed](https://github.com/Athou/commafeed/) - Responsive open Google-Reader layout design clone.
@@ -222,4 +216,3 @@
 * [Etherpad](https://etherpad.org/) - Mix between pastebin and google docs, great for collaborative notes
 * [n8n](https://n8n.io/) - AI agent / workflow management and automation
 * [tailscale](https://tailscale.com/) - network mesh functionality
-* [linkwarden](https://github.com/linkwarden/linkwarden) - open-source collaborative bookmark manager
