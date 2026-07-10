@@ -16,12 +16,9 @@ The repository is divided into two primary flat-file markdown tracking databases
 ---
 
 ## 🗺️ Project Roadmap & Automation Goals
-
-### 🔄 WordPress CI/CD Integration
-*   [ ] **Automated Headless Deployment:** Configure a GitHub Action workflows pipeline to monitor master branch `push` operations.
-*   [ ] **API Content Syncing:** Leverage the native WordPress REST API (or a lightweight markdown-to-WP parsing engine) to automatically translate local repository changes straight to production web pages, eliminating manual duplication work.
+*   [X] **Sync to personal website:** Wrote a python mardown script that pulls the latest with changes in markdown prior to publishing with [pelican](https://github.com/getpelican/pelican)
 *   [ ] **Syntax Optimization:** Ensure standard markdown elements, lists, and anchor hyperlinks render flawlessly on modern desktop and mobile viewports alike.
-
+*   [ ] **Catching them all:** Getting all good software and bookmarks added to this repo
 ---
 
 ## 🤝 Contributing & Feedback
