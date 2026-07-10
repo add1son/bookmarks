@@ -111,6 +111,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 ---
 
 ## Privacy / Security Resources
+Additional resources / tools in [SecurityResources.md](https://github.com/add1son/bookmarks/blob/main/SecurityResources.md)
 * [PrivacyTools.io](https://www.privacytools.io) — Longstanding collective tracking privacy-respecting application alternatives.
 * [EFF Surveillance Self-Defense](https://ssd.eff.org) — Electronic Frontier Foundation playbook explaining safe encryption configurations.
 * [Have I Been Pwned](https://haveibeenpwned.com) — Essential structural registry testing if your emails are exposed inside public database dumps.
