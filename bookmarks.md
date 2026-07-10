@@ -147,6 +147,8 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [Zwift Hub](https://us.zwift.com/) — Interactive multiplayer online cycling training framework.
 * [Strava](http://strava.com/) — Global social application network tracking fitness milestones.
 * [Garmin Connect](http://connect.garmin.com/) — Core dashboard managing wearable sensor data analytics logs.
+* [Garmin Grafanad](https://github.com/arpanghosh8453/garmin-grafana) - dashboard for garmin data visualization
+* [wger](https://github.com/wger-project/wger) - fitness dashbaord
 
 
 ---
