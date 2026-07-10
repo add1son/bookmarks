@@ -168,6 +168,8 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [512KB Club](https://512kb.club/) — Index gathering green, ultra-lightweight web properties keeping footprint sizes tiny.
 * [dsfounis.com](https://dsfounis.com/) — Personal dev thoughts and software engineering logs.
 * [CozyNet](https://www.cozynet.org/) — Retro web directory celebrating old-school indie digital spaces.
+* [Internet Phone Book](https://internetphonebook.net/) - "An annual publication for exploring the vast poetic web, featuring essays, musings and a directory with the personal websites of hundreds of designers, developers, writers, curators, and educators."
+* [https://cloudlord.management/](https://cloudlord.management/) - "an internet surreal estate holding company"
 
 ---
 
