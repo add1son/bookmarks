@@ -197,6 +197,7 @@
 * [Hydrus Network](https://hydrusnetwork.github.io/hydrus/index.html) - Advanced tagging layout manager engineered for massive file collection sizes.
 * [Plex Media Server](https://www.plex.tv/) - Dynamic processing framework streaming multi-device personal storage.
 * [Jellyfin](https://jellyfin.org/) - The pure free software media system alternative completely detached from premium fees or licensing models.
+* [Navidrome](https://www.navidrome.org/) - Spotify if it was good and had your mp3 files
 * [Tautulli](https://tautulli.com/) - Comprehensive processing dashboard providing metrics reporting statistics on Plex deployments.
 * [metube](https://github.com/alexta69/metube) - Minimalist graphical frontend client driving node yt-dlp downloading servers.
 * [Tiny Media Manager](https://www.tinymediamanager.org/) - Full-featured media management tool creating clean NFO metadata assets for media servers.
