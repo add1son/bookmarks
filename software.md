@@ -30,6 +30,7 @@
 * [balenaEtcher](https://etcher.balena.io) - Streamlined tool to flash OS images to SD cards & USB drives.
 * [Portainer](https://www.portainer.io/) - Container management interface for Docker and Kubernetes environments.
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich open administration platform handling PostgreSQL server databases.
+* [tabby](https://github.com/Eugeny/tabby/) - (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
 
 ### AI 
 * [odysseus](https://github.com/pewdiepie-archdaemon/odysseus/) - A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows.
