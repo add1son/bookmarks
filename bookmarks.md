@@ -77,6 +77,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 * [OnlineFileTools Random Text Gen](https://onlinefiletools.com/generate-random-text-file) — Local testing environment creating random dummy txt payloads instantly.
 * [Mail-Tester](https://www.mail-tester.com/) — Complete diagnostics system vetting email headers against DKIM, SPF, and spam parameters.
 * [Password Generator](https://passwordsgenerator.net/) — Local-first secure entropy password generation matrix.
+* [online-tools](https://emn178.github.io/online-tools/) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 
 ---
 
