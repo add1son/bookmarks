@@ -161,19 +161,23 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 ---
 
 ## Cool Webzones
-* [Sivers.org](https://sive.rs/) — Derek Sivers' collection of essays covering philosophy, business, and books.
-* [Stavros.io](https://www.stavros.io/) — Insightful thoughts and tech experiments from an old-school engineer.
 * [LukeSmith.xyz](https://lukesmith.xyz/) — Minimalist, terminal-centric computing philosophy notes.
 * [ShyStudios](http://shystudios.us) — Independent design portfolio and vintage computing logs.
-* [Filiph.net](https://filiph.net/) — Creative projects and engineering development notebooks.
-* [vc.gg](http://vc.gg) — Retrospectives covering assembly code and computing curiosities.
 * [Punkto.org](https://punkto.org/) — Highly focused alternative cultural exploration web logs.
 * [512KB Club](https://512kb.club/) — Index gathering green, ultra-lightweight web properties keeping footprint sizes tiny.
-* [dsfounis.com](https://dsfounis.com/) — Personal dev thoughts and software engineering logs.
 * [CozyNet](https://www.cozynet.org/) — Retro web directory celebrating old-school indie digital spaces.
 * [Internet Phone Book](https://internetphonebook.net/) - "An annual publication for exploring the vast poetic web, featuring essays, musings and a directory with the personal websites of hundreds of designers, developers, writers, curators, and educators."
 * [https://cloudlord.management/](https://cloudlord.management/) - "an internet surreal estate holding company"
 
+---
+
+## Blogs I follow or find interesting
+* [Sivers.org](https://sive.rs/) — Derek Sivers' collection of essays covering philosophy, business, and books.
+* [Stavros.io](https://www.stavros.io/) — Insightful thoughts and tech experiments from an old-school engineer.
+* [Filiph.net](https://filiph.net/) — Creative projects and engineering development notebooks.
+* [dsfounis.com](https://dsfounis.com/) — Personal dev thoughts and software engineering logs.
+* [dogdogfish.com](https://dogdogfish.com/blog/) — Personal blog of an Automattic engineer with interesting insights.
+  
 ---
 
 ## Repos of Good Sites / Resources (Meta)
