@@ -182,7 +182,8 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [Filiph.net](https://filiph.net/) — Creative projects and engineering development notebooks.
 * [dsfounis.com](https://dsfounis.com/) — Personal dev thoughts and software engineering logs.
 * [dogdogfish.com](https://dogdogfish.com/blog/) — Personal blog of an Automattic engineer with interesting insights.
-  
+* [Cullum’s Blog](https://www.sacredheartsc.com/blog/) —  *Wrangling scripts in the shell and quilismas in the choir loft.*
+* [Nicholas Charriere's Blog](https://nicholascharriere.com/blog/) — YC engineer 
 ---
 
 ## Repos of Good Sites / Resources (Meta)
