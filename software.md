@@ -146,6 +146,7 @@
 * **KeePassXC-Browser** - [Chrome](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocgddnoafihine) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)
 * **NoScript** - [Chrome](https://chromewebstore.google.com/detail/noscript/doojbcoemghaioacocbbbeeilmdafeng) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 * **Cookie AutoDelete** - [Chrome](https://chromewebstore.google.com/detail/cookie-autodelete/fhcgjjmchdfbldbclbhgiephmepbbhjf) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+* **LibRedirect** - [Chrome](https://libredirect.manerakai.com/download_chromium.html) - [Firefox](https://addons.mozilla.org/firefox/addon/libredirect/)
 
 ### Script Managers & Development
 * **Violentmonkey** *(Hosts automated userscripts such as Instagram Helper and Undiscord)* - [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkgednnccohejagnblinecl) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
