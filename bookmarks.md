@@ -151,6 +151,11 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [Garmin Grafana](https://github.com/arpanghosh8453/garmin-grafana) - dashboard for garmin data visualization
 * [wger](https://github.com/wger-project/wger) - fitness dashbaord
 
+---
+
+## Misc 
+* [HeyItsFree](https://www.heyitsfree.net/birthday-freebies/) — Is it your birthday? See which companies want to give you some free stuff
+
 
 ---
 
