@@ -16,6 +16,7 @@
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Feature-rich command-line YouTube/media downloader.
 * [beets](https://beets.io/) - Media library management system and metadata tagger for music geeks.
 * [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - Local AI audio transcription engine; efficient desktop alternative to [wisprflow](https://wisprflow.ai/).
+* [Reaper](https://www.reaper.fm/) - Digital Audio Workstation (DAW) that is reasonably priced and available on every platform
 
 ### System, Networking & Databases
 * [Floorp](https://floorp.app/en/) - Customisable, privacy-focused web browser based on Firefox.
