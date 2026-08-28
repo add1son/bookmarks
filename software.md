@@ -33,6 +33,7 @@
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich open administration platform handling PostgreSQL server databases.
 * [tabby](https://github.com/Eugeny/tabby/) - (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
 * [medicat](https://medicatusb.com/) - USB diagnostic toolkit with a [bunch of tools](https://medicatusb.com/docs/) loaded into it
+* [cryptomator](https://cryptomator.org/) - FOSS cloud encryption for individuals or teams
 
 ### AI 
 * [odysseus](https://github.com/pewdiepie-archdaemon/odysseus/) - A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows.
