@@ -11,6 +11,7 @@
 * [Calibre](https://calibre-ebook.com/) - Comprehensive open-source e-book manager and viewer.
 * [Mumble](https://www.mumble.info/) - Low-latency, high-quality open-source voice chat utility.
 * [Open Broadcaster Software (OBS)](https://obsproject.com/) - Free and open-source software for video recording and live streaming.
+* [Recordly](https://recordly.dev/) - Free and open-source alternative to something like Snaggit, screen recording for people who need documentation / user reproducible results / demos
 * [Avidemux](https://avidemux.sourceforge.net/) - Free video editor designed for simple cutting, filtering, and encoding tasks.
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Swiss army knife of lossless video/audio editing based on FFmpeg.
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Feature-rich command-line YouTube/media downloader.
@@ -64,6 +65,7 @@
 * [MPV Android](http://github.com/mpv-android/mpv-android/releases) - Video player port built around libmpv.
 * [Simple Music Player](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - Clean offline audio file playback engine.
 * [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/) - Clean, extensible local audio manager.
+* [Atrium](https://f-droid.org/en/packages/app.atrium/) - Manage your local hosted media server stack from your phone
 
 ### Utilities & Tools
 * [Element](http://f-droid.org/packages/im.vector.app/) - Secure matrix messaging wrapper.
