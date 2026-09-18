@@ -29,6 +29,8 @@
 * [Telegram](https://telegram.org/) - Cloud-based instant messaging and multimedia platform.
 * [VirtualBox](https://www.virtualbox.org/) - Multi-platform x86 and AMD64/Intel64 virtualization software.
 * [RPCS3](https://rpcs3.net/quickstart) - Open-source Sony PlayStation 3 emulator.
+* [Sunshine](https://github.com/LizardByte/Sunshine/) - FOSS version of Nvidia GameStream, allows for streaming of games from higher caliber hardware to lower caliber hardware. Sunshine is the server
+* [Moonlight](https://moonlight-stream.org/) - Client to Sunshine, runs on the thin client in order to take advantage of another machines hardware
 * [balenaEtcher](https://etcher.balena.io) - Streamlined tool to flash OS images to SD cards & USB drives.
 * [Portainer](https://www.portainer.io/) - Container management interface for Docker and Kubernetes environments.
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich open administration platform handling PostgreSQL server databases.
