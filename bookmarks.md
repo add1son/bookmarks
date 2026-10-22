@@ -20,6 +20,7 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 * [Sci-Hub](https://sci-hub.se/) — Direct repository offering open access to millions of academic research papers.
 * [LibriVox](http://librevox.org) — Free public domain audiobooks read by global volunteers.
 * [AlternativeTo](https://alternativeto.net/) — Crowdsourced software alternative recommendation platform.
+* [LibHunt](https://www.libhunt.com/) - Open Source project comparison and alternative finder
 
 ---
 
