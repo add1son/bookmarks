@@ -157,6 +157,16 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 ## Misc 
 * [HeyItsFree](https://www.heyitsfree.net/birthday-freebies/) — Is it your birthday? See which companies want to give you some free stuff
 
+---
+
+## Daily games / brainteasers
+* [NYT wordle](https://www.nytimes.com/games/wordle/) - guess a word in 5 tries
+* [NYT Connections](https://www.nytimes.com/games/connections) - guess the link between groups of 4 items
+* [Magnitudle](https://magnitudle.com/size-it-up) - guess relative sizes of objects
+* [Krillion](https://krillion.io/) - answer 7 questions with the most unique answers 
+* [Noillirk](https://noillirk.com/) - answer 7 questions with the most popular answers
+* [Perceptle](https://perceptle.com/) - Five tiny tests of perceptual instinct
+* [Costcodle](https://costcodle.com/) - guess prices of costco items
 
 ---
 
