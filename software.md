@@ -48,38 +48,92 @@
 
 ### System & Infrastructure
 * [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices over USB or TCP/IP from a PC.
-* [Syncthing](http://f-droid.org/packages/com.nutomic.syncthingandroid/) - Open-source file synchronization engine across local nodes.
-* [Primitive ftpd](http://f-droid.org/en/packages/org.primftpd/) - Simple FTP/SFTP server implementation to migrate data off mobile local storage.
+* [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/) - Open-source file synchronization engine across local nodes.
+* [Primitive ftpd](https://f-droid.org/en/packages/org.primftpd/) - Simple FTP/SFTP server implementation to migrate data off mobile local storage.
 * [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/) - DNS-based host adblocking without requiring root privileges.
+* [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid/) - The FOSS app store client itself.
+* [Shizuku](https://github.com/RikkaApps/Shizuku/releases) - Lets apps call privileged system APIs through an ADB or root-started service. Not on F-Droid due to binary licensing.
+* [Automation](https://f-droid.org/packages/com.jens.automation2/) - Rule-based triggers and actions for location, time, connectivity and more.
+* [Lawnchair](https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair) - Pixel-style launcher built on AOSP Launcher3.
+* [Lawnicons](https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons) - Monochrome themed icon pack from the Lawnchair team.
+* [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/) - Clean file manager with root, SMB, SFTP and WebDAV support.
+* [Disky](https://f-droid.org/packages/de.felixnuesse.disky/) - Storage usage analyzer for finding what is eating your space.
+* [ZipXtract](https://f-droid.org/packages/com.wirelessalien.zipxtract/) - Archive extractor and creator for zip, 7z, tar and more.
+* [TalkBack](https://f-droid.org/packages/com.android.talkback/) - De-Googled build of Android's screen reader.
+* [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/) - Channel and signal strength analysis for nearby Wi-Fi networks.
+* [GPSLogger](https://f-droid.org/packages/com.mendhak.gpslogger/) - Battery-light GPS track logging to GPX, KML or custom endpoints.
+
+### Self-Hosted & Homelab
+* [Home Assistant (Minimal)](https://f-droid.org/packages/io.homeassistant.companion.android.minimal/) - Home Assistant companion app without Google Play Services.
+* [Homelab](https://f-droid.org/packages/com.homelab.app/) - Native dashboard for Portainer, Pi-hole, Servarr, Beszel and other self-hosted services.
+* [Immich](https://f-droid.org/packages/app.alextran.immich/) - Mobile client and backup for a self-hosted Immich photo server.
+* [Haven SSH Client](https://f-droid.org/packages/sh.haven.app/) - SSH, VNC, RDP and SFTP client with a native Wayland desktop.
+* [ServerBox](https://f-droid.org/packages/tech.lolli.toolbox/) - Server status charts and SSH toolbox for Linux, BSD and Windows hosts.
+* [DAVxâµ](https://f-droid.org/packages/at.bitfire.davdroid/) - CalDAV, CardDAV and WebDAV sync for calendars, contacts and tasks.
+* [Hermes Mobile](https://f-droid.org/packages/com.m57.hermescontrol/) - LAN remote control for a self-hosted Hermes AI agent.
 
 ### Privacy & Security
 * [Aegis 2FA](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) - Secure, open-source 2FA token manager with encrypted backups.
 * [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) - Multi-format KeePass password manager interface natively built for mobile.
 * [Bromite](https://www.bromite.org/fdroid) - Chromium fork featuring built-in adblocking and enhanced privacy engines.
 * [Unstoppable Crypto Wallet](https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/) - Decentralized non-custodial crypto-management asset engine.
+* [Bitwarden](https://mobileapp.bitwarden.com/fdroid/repo) - Password manager, served from Bitwarden's own F-Droid repo (no push sync).
+* [Keyholm](https://f-droid.org/packages/app.keyholm/) - Single-device passkeys backed by the phone's secure hardware.
+* [Yubico Authenticator](https://f-droid.org/packages/com.yubico.yubioath/) - TOTP/HOTP codes stored on a YubiKey over NFC or USB.
+* [sub rosa](https://f-droid.org/packages/acab.naiveha.subrosa/) - Programs YubiKey static passwords and OpenPGP keys over USB or NFC.
+* [Mullvad VPN](https://f-droid.org/packages/net.mullvad.mullvadvpn/) - Official Mullvad WireGuard client.
 
 ### Media & News Aggregators
 * [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Lightweight, custom anonymous frontend engine for YouTube.
+* [WizeStream](https://apt.izzysoft.de/fdroid/index/apk/org.wisso.newpipematerial) - Material 3 fork of NewPipe (formerly NewPipe Material) with SponsorBlock and dislike counts.
 * [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) - Minimalist and fluid local open-source RSS reader.
+* [Folio](https://f-droid.org/packages/com.folio.reader/) - Clean reader for a self-hosted FreshRSS server via the Google Reader API.
 * [Raven](https://f-droid.org/en/packages/kshib.raven/) - Custom web scraping and API-centric dynamic news reader.
 * [Hacki](https://f-droid.org/packages/com.jiaqifeng.hacki/) - Clean, feature-complete client tracking YCombinator Hacker News.
+* [Claw](https://apt.izzysoft.de/fdroid/index/apk/dev.msfjarvis.claw.android) - Unofficial lobste.rs client.
+* [Trending AI](https://f-droid.org/packages/whl.trending.ai/) - GitHub Trending, Hacker News and Product Hunt in one feed with AI summaries.
 * [Podverse](https://f-droid.org/en/packages/com.podverse.fdroid/) - Open-source podcast aggregator with clip sharing features.
-* [MPV Android](http://github.com/mpv-android/mpv-android/releases) - Video player port built around libmpv.
+* [MPV Android](https://github.com/mpv-android/mpv-android/releases) - Video player port built around libmpv.
+* [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Plays pretty much any audio or video format, plus network streams.
+* [Fossify Gallery](https://f-droid.org/packages/org.fossify.gallery/) - Offline photo and video gallery with basic editing.
 * [Simple Music Player](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - Clean offline audio file playback engine.
 * [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/) - Clean, extensible local audio manager.
-* [Atrium](https://f-droid.org/en/packages/app.atrium/) - Manage your local hosted media server stack from your phone
+* [Navic](https://f-droid.org/packages/paige.navic/) - Modern Navidrome/OpenSubsonic client with offline sync.
+* [SoundCrowd](https://f-droid.org/packages/com.tiefensuche.soundcrowd/) - SoundCloud and local music player without an account.
+* [Hazel](https://f-droid.org/packages/com.hazel.android/) - Video and audio downloader for 1000+ sites, powered by yt-dlp.
+* [YouTube Conv.axs](https://apt.izzysoft.de/fdroid/index/apk/com.pg_axis.ytcnv) - YouTube to MP3/MP4 downloader with metadata and thumbnail embedding.
+* [Atrium](https://f-droid.org/en/packages/app.atrium/) - Manage your local hosted media server stack from your phone.
+
+### Communication
+* [Element](https://f-droid.org/packages/im.vector.app/) - Secure matrix messaging wrapper.
+* [Element X](https://f-droid.org/packages/io.element.android.x/) - Next-gen Matrix client built on the Rust SDK.
+* [Mercurygram](https://github.com/Mercurygram/Mercurygram) - Privacy-focused Telegram fork with on-device secret chat translation.
+* [Snikket](https://f-droid.org/packages/org.snikket.android/) - XMPP client for Snikket and other XMPP servers.
+* [Mumla](https://f-droid.org/packages/se.lublin.mumla/) - Mumble voice chat client.
+* [Fossify Messages](https://f-droid.org/packages/org.fossify.messages/) - SMS/MMS app with no ads or tracking.
+* [VoIP.ms SMS](https://f-droid.org/packages/net.kourlas.voipms_sms/) - Send and receive SMS through VoIP.ms DIDs.
+* [K-9 Mail](https://f-droid.org/packages/com.fsck.k9/) - Production-ready open email engine (Now the foundation of Thunderbird Mobile).
 
 ### Utilities & Tools
-* [Element](http://f-droid.org/packages/im.vector.app/) - Secure matrix messaging wrapper.
-* [K-9 Mail](https://f-droid.org/packages/com.fsck.k9/) - Production-ready open email engine (Now the foundation of Thunderbird Mobile).
 * [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner/) - Document imaging tool converting handwritten pages to image assets.
 * [FairScan](https://f-droid.org/en/packages/org.fairscan.app/) - Document scanner outputting flattened, shareable PDFs.
+* [Binary Eye](https://f-droid.org/packages/de.markusfisch.android.binaryeye/) - Barcode and QR scanner and generator.
+* [Share as QR](https://f-droid.org/packages/com.github.mikulash.shareasqr/) - Turns shared text or links into a QR code.
+* [Image Toolbox](https://f-droid.org/packages/ru.tech.imageresizershrinker/) - Resize, convert, compress, crop and edit images in bulk.
 * [OsmAnd~](https://f-droid.org/packages/net.osmand.plus/) - Offline global navigation application driving openstreetmap data.
+* [Bura](https://f-droid.org/packages/com.davidtakac.bura/) - Minimal weather forecasts from Open-Meteo.
+* [Suntimes](https://f-droid.org/packages/com.forrestguice.suntimeswidget/) - Sunrise, sunset, twilight and moon phase widgets.
+* [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar/) - Offline calendar with CalDAV support.
+* [Todosian](https://f-droid.org/packages/com.isotjs.todosian/) - Manages Obsidian todo lists by editing the vault's Markdown files directly.
 * [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer/) - Open acoustics recognition client for finding song profiles.
 * [SherpaTTS](https://f-droid.org/en/packages/org.woheller69.ttsengine/) - Offline local text-to-speech architecture leveraging Piper & Coqui engines.
 * [Whisper+](https://f-droid.org/en/packages/org.woheller69.whisperplus/) - Voice-to-text input method keyboard layout powered locally by OpenAI Whisper models.
+* [oxproxion](https://f-droid.org/packages/io.github.stardomains3.oxproxion/) - LLM chat client for OpenRouter, Ollama, LM Studio and llama.cpp.
+* [Searxist](https://f-droid.org/packages/xyz.linerly.searxist/) - Native client for SearXNG instances.
+* [Sefirah](https://apt.izzysoft.de/fdroid/index/apk/com.castle.sefirah) - Phone Link / KDE Connect alternative for clipboard, notifications and files with Windows.
 * [Sidestep](https://apt.izzysoft.de/fdroid/index/apk/com.blankdev.sidestep) - Intercepts URLs and redirects them to alternative frontends & removes tracking
 * [Untracker](https://f-droid.org/en/packages/me.zhanghai.android.untracker/) - removes tracking like Sidestep without the alternative frontend redirect
+
 
 ### Additional Repositories
 * [FLOSS Android Apps Tracker](https://gitlab.com/Primokorn/FLOSS_Android_apps) - Curated index monitoring free libre open-source software packages.
