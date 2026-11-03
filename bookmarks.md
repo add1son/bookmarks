@@ -39,12 +39,14 @@ Below is a semi-sorted list of miscellaneous bookmarks for myself and if you lik
 
 ---
 
-## General
+## General / News
 * [Ars Technica](http://Arstechnica.com) — Deep tech journalism, analysis, hardware coverage, and technology reviews.
 * [Hackaday](https://hackaday.com/) — Fresh hacks, hardware mods, and open-source projects posted daily.
 * [Hacker News](https://news.ycombinator.com/) — Main computer science and entrepreneurial link aggregator curated by YCombinator.
 * [Product Hunt](https://www.producthunt.com/) — Curation feed surfacing tomorrow's newest mobile apps, tech products, and websites.
+* [Global Tech Trends, Curated by AI](https://trendingai.cn/feed/) — Aggregates and summarizes popular posts / repos on Hacker News, Github and Product Hunt
 * [News Generator](https://int4k.com) — Minimalist text news aggregator.
+
 
 ---
 
@@ -160,13 +162,13 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 ---
 
 ## Daily games / brainteasers
-* [NYT wordle](https://www.nytimes.com/games/wordle/) - guess a word in 5 tries
-* [NYT Connections](https://www.nytimes.com/games/connections) - guess the link between groups of 4 items
-* [Magnitudle](https://magnitudle.com/size-it-up) - guess relative sizes of objects
-* [Krillion](https://krillion.io/) - answer 7 questions with the most unique answers 
-* [Noillirk](https://noillirk.com/) - answer 7 questions with the most popular answers
-* [Perceptle](https://perceptle.com/) - Five tiny tests of perceptual instinct
-* [Costcodle](https://costcodle.com/) - guess prices of costco items
+* [NYT wordle](https://www.nytimes.com/games/wordle/) — guess a word in 5 tries
+* [NYT Connections](https://www.nytimes.com/games/connections) — guess the link between groups of 4 items
+* [Magnitudle](https://magnitudle.com/size-it-up) — guess relative sizes of objects
+* [Krillion](https://krillion.io/) — answer 7 questions with the most unique answers 
+* [Noillirk](https://noillirk.com/) — answer 7 questions with the most popular answers
+* [Perceptle](https://perceptle.com/) — Five tiny tests of perceptual instinct
+* [Costcodle](https://costcodle.com/) — guess prices of costco items
 
 ---
 
@@ -195,6 +197,7 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [dogdogfish.com](https://dogdogfish.com/blog/) — Personal blog of an Automattic engineer with interesting insights.
 * [Cullum’s Blog](https://www.sacredheartsc.com/blog/) —  *Wrangling scripts in the shell and quilismas in the choir loft.*
 * [Nicholas Charriere's Blog](https://nicholascharriere.com/blog/) — YC engineer 
+
 ---
 
 ## Repos of Good Sites / Resources (Meta)
