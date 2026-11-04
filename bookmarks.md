@@ -167,8 +167,12 @@ Additional resources / tools in [SecurityResources.md](https://github.com/add1so
 * [Magnitudle](https://magnitudle.com/size-it-up) — guess relative sizes of objects
 * [Krillion](https://krillion.io/) — answer 7 questions with the most unique answers 
 * [Noillirk](https://noillirk.com/) — answer 7 questions with the most popular answers
+* [Moonshot](https://moonshotdailygame.com/) — Combination of Noillirk and Krillion, sometimes rare answers sometimes common ones
+* [Jinxed](https://jinxed.party/) - Krillion but with party mode
+* [Farflung](https://farflung.game/) — Five prompts, pin a country, rare answers for more points
 * [Perceptle](https://perceptle.com/) — Five tiny tests of perceptual instinct
 * [Costcodle](https://costcodle.com/) — guess prices of costco items
+* [TopTen](https://playtopten.com/) — Start with any proper noun. Guess the ten proper nouns most closely connected to it and keep growing your graph.
 
 ---
 
